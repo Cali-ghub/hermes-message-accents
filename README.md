@@ -12,6 +12,18 @@ It changes the **user-message bubble** only. Hermes responses and the overall De
 - **Glow Purple**
 - **Vibrant Emerald**
 
+## Preview gallery
+
+These fictional desktop previews show the user-message accent while keeping the assistant surface neutral. They contain no real searches or conversation data.
+
+| Neon Gold | Cyber Pink |
+| --- | --- |
+| ![Neon Gold preview](images/neon-gold.png) | ![Cyber Pink preview](images/cyber-pink.png) |
+
+| Electric Blue | Vibrant Emerald |
+| --- | --- |
+| ![Electric Blue preview](images/electric-blue.png) | ![Vibrant Emerald preview](images/vibrant-emerald.png) |
+
 ## Installation
 
 Copy `desktop-plugins/user-input-highlight/plugin.js` into your Hermes Desktop plugin directory:
